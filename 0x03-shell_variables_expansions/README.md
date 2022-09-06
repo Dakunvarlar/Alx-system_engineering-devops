@@ -2,3 +2,4 @@ Shell, init files, variables and expansions
 a script that creates an alias.
 a script that prints hello user, where user is the current Linux user
  a script that lists environment variables.
+a script that lists all local variables and environment variables, and functions.
