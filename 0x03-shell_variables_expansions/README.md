@@ -10,3 +10,4 @@ a script that prints the result of POWER divided by DIVIDE, followed by a new li
 a script that displays the result of BREATH to the power LOVE
 a script that converts a number from base 2 to base 10.
 a script that prints a number with two decimal places, followed by a new line.
+Add /action to the PATH. /action should be the last directory the shell looks into when looking for a program
