@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "users and their home directories, sorted by users. $(ls -l)"
+sort /etc/passwd | cut -d: -f 1,6
